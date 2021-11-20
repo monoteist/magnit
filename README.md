@@ -38,8 +38,14 @@
 
 #### Запуск
 
-Для запуска программы используйте файл `run.py`
+Для запуска программы используйте файл `run.py`. Запускает сервер
 
 Команда для windows `python run.py`
 
 Команда linux или macOS `python3 run.py`
+
+Далее запустите тесты для API находищиееся в файле `house/tests.py`
+
+Команда для windows `python house/tests.py`
+
+Команда linux или macOS `python3 house/tests.py`
